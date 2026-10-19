@@ -1,4 +1,5 @@
 My understanding of the requirements specified in the PDF
+
 # Cricket Tournament Points Table and Net Run Rate Calculator
 The objective of this program is to manage a cricket tournament using Python. It should allow users to register teams, enter match details, calculate match results, maintain team statistics, and display the final points table. The program should validate inputs, prevent invalid matches, and ensure that every team plays against every other team exactly twice.
 The program should also calculate points and Net Run Rate (NRR) according to the given cricket rules. Teams should be ranked based on their total points, with NRR used to break ties. The final table should be displayed only after checking whether all required matches have been completed.
